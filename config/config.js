@@ -9,7 +9,7 @@ var config = {
       name: 'nudes-go'
     },
     port: process.env.PORT || 3000,
-    db: 'mysql://user:password@localhost/nudesgodb',    
+    db: 'mysql://devops:oba47oba@localhost/nudesgodb',    
 
   },
 
