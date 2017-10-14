@@ -14,7 +14,9 @@
 
    MariaDB  mysql  Ver 15.1 Distrib 10.1.26-MariaDB, for Linux (x86_64) using readline 5.1
 
-   Gulp 
+   Gulp  3.9.1
+
+   Jade 1.11.0
 
 
 ## 2. Como executar o projeto
@@ -73,4 +75,4 @@
 
 ## 3. Como contribuir
 
-Entre em contato via email com: igor_goncalves@live.com ou crie uma issue
+Entre em contato via email com: igor_goncalves@live.com ou may.mchdo@gmail.com ou então crie uma issue.
